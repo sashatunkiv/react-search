@@ -72,7 +72,7 @@ function App() {
                 onClick={onClickSendInvites}
                 width={20}
                 className="cart-img"
-                src="./img/shopping-cart.PNG"
+                src="./img/shopping-cart.png"
                 alt='Shopping-cart'
               />
             </div>

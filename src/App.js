@@ -124,7 +124,7 @@ function App() {
               onClick={onClickSendInvites}
               width={20}
               className="cart-img"
-              src="/img/cross.png"
+              src="./img/cross.png"
             />
             <Cart />
           </>

@@ -83,10 +83,10 @@ function App() {
                 value={value}
                 onChange={(e) => setValue(e.target.value)}
               />
-              <nav className="category">
+              {/* <nav className="category">
                 <img width={26} src="/img/pizza.png" />
                 <img width={26} src="/img/sushi.png" />
-              </nav>
+              </nav> */}
               <ul>
                 {isLoading ? (
                   <div>

@@ -19,6 +19,7 @@ import React, { useState } from 'react';
         onClick={onClickPlus}
         width={15}
         src={isAdded ? '/img/minus.svg' : '/img/plus.svg'}
+       alt='Add'
       />
     </li>
   );

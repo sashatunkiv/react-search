@@ -73,6 +73,7 @@ function App() {
                 width={20}
                 className="cart-img"
                 src="/img/shopping-cart.png"
+                alt='Shopping-cart'
               />
             </div>
             <Sort SortProducts={SortProducts} />
